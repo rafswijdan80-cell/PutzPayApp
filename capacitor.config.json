@@ -1,0 +1,9 @@
+{
+  "appId": "com.putzpay.app",
+  "appName": "PutzPay",
+  "webDir": "www",
+  "server": {
+    "url": "https://putzpay.biz.id",
+    "cleartext": false
+  }
+}

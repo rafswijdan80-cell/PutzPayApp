@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">PutzPay</string>
+    <string name="title_activity_main">PutzPay</string>
+    <string name="package_name">com.putzpay.app</string>
+    <string name="custom_url_scheme">com.putzpay.app</string>
+</resources>
